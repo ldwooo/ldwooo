@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?ldwooo=FelipeFama&&show_icons=true&theme=dark)
 
 <!--
 **ldwooo/ldwooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
