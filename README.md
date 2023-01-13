@@ -1,4 +1,9 @@
-### 안녕하세요 👋
+### HI THERE 👋
+
+#### :technologist: SKILLS
+BEGINNER
+
+
 
 
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ldwooo&&show_icons=true&theme=dark)
