@@ -1,7 +1,10 @@
-### Hi there 👋
+### 안녕하세요 👋
 
 
+![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ldwooo&&show_icons=true&theme=dark)
 <!--
+
+
 **ldwooo/ldwooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
